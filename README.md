@@ -1,4 +1,7 @@
 # webshop
+En liten studie i hur man kan jobba med att dela upp komponenter i mindre komponenter.  
+Här studerar vi hur Product (som innehåller namn, bild och pris) borde kunna delas upp i mindre del-komponenter (eftersom vi kanske inte alltid är intresserade av att ha med bilder i varukorgen.)
+
 
 ## Project setup
 ```
@@ -9,16 +12,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
